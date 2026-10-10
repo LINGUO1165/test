@@ -1,0 +1,4 @@
+project_id = "short-drama-quiz"
+
+[functions.start-quiz]
+verify_jwt = false
